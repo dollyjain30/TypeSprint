@@ -10,12 +10,11 @@ Features
 🖌 Interactive UI: Smooth animations and a visually appealing design using HTML, CSS, and JavaScript.
 Technologies Used
 Frontend: HTML, CSS, JavaScript
-Styling: Tailwind CSS (or custom CSS if preferred)
+
 How to Play
 Select a difficulty level.
 Start typing the given paragraph.
 The timer starts automatically when you type the first character.
 The game highlights correct (green) and incorrect (red) letters in real time.
-Once you finish typing, your speed (WPM) and accuracy are displayed.
 Optionally, restart the game and try to improve your score!
 
